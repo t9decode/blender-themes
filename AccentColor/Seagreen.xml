@@ -107,18 +107,18 @@
         </anim>
       </ThemeCommon>
     </common>
-    <file_browser>
-      <ThemeFileBrowser
-        selected_file="#059669"
-        >
-      </ThemeFileBrowser>
-    </file_browser>
     <properties>
       <ThemeProperties
         match="#059669"
         >
       </ThemeProperties>
     </properties>
+    <preferences>
+      <ThemePreferences
+        match="#059669"
+        >
+      </ThemePreferences>
+    </preferences>
     <outliner>
       <ThemeOutliner
         selected_highlight="#023c2a"

@@ -7,6 +7,7 @@
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#00000001"
+        link="#6fa9e6ff"
         editor_border="#f7d0df"
         editor_outline="#f7d0df15"
         editor_outline_active="#ffffff2a"
@@ -364,9 +365,9 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#771111ff"
+            error="#e6000099"
             warning="#ac8737ff"
-            info="#28487dff"
+            info="#1a8cff66"
             success="#188625ff"
             inner_anim="#53992e"
             inner_anim_sel="#5aa633"
@@ -488,6 +489,8 @@
     <view_3d>
       <ThemeView3D
         grid="#80808050"
+        grid_major="#808080a0"
+        grid_axis_brightness="0.46"
         clipping_border_3d="#313131ff"
         wire="#000000"
         wire_edit="#111111"
@@ -550,12 +553,9 @@
         >
         <space>
           <ThemeSpaceGradient
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d500"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
             <gradients>
               <ThemeGradientColors
@@ -580,12 +580,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -593,18 +590,14 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#b63a69"
         row_alternate="#00000005"
         >
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -631,12 +624,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -657,12 +647,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -696,12 +683,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#e4e4e4"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -735,12 +719,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -753,12 +734,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -782,12 +760,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -830,12 +805,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -854,12 +826,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -882,28 +851,24 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
       </ThemeInfo>
     </info>
     <preferences>
-      <ThemePreferences>
+      <ThemePreferences
+        match="#e35289"
+        >
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -921,12 +886,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -951,12 +913,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -967,12 +926,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#fae2ebff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -983,12 +939,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -1001,12 +954,9 @@
         <space>
           <ThemeSpaceGeneric
             back="#f7c4d7"
-            title="#5c0a29"
             text="#5c0a29"
             text_hi="#ffffff"
             header="#f5c1d5ff"
-            header_text="#5c0a29"
-            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
